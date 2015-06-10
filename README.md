@@ -15,7 +15,7 @@
 
 ## Browser support
 
-Tested on IE9+, Chrome(43), Firefox(38), and Safari(8)
+Tested on IE(9+), Chrome(43), Firefox(38), and Safari(8)
 
 ## Use local assets
 
