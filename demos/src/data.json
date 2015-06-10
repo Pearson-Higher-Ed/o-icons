@@ -1,0 +1,490 @@
+{
+    "icons": [
+        {
+            "name": "oc-icon-check"
+        },
+        {
+            "name": "oc-icon-spreadsheet"
+        },
+        {
+            "name": "oc-icon-presentation"
+        },
+        {
+            "name": "oc-icon-tour"
+        },
+        {
+            "name": "oc-icon-participation"
+        },
+        {
+            "name": "oc-icon-discussion-topic"
+        },
+        {
+            "name": "oc-icon-performance"
+        },
+        {
+            "name": "oc-icon-module"
+        },
+        {
+            "name": "oc-icon-quick-assess"
+        },
+        {
+            "name": "oc-icon-simulation"
+        },
+        {
+            "name": "oc-icon-article"
+        },
+        {
+            "name": "oc-icon-everyone"
+        },
+        {
+            "name": "oc-icon-institution"
+        },
+        {
+            "name": "oc-icon-person"
+        },
+        {
+            "name": "oc-icon-reply-square"
+        },
+        {
+            "name": "oc-icon-share-doc"
+        },
+        {
+            "name": "oc-icon-doc-sharing"
+        },
+        {
+            "name": "oc-icon-people"
+        },
+        {
+            "name": "oc-icon-back-arrow"
+        },
+        {
+            "name": "oc-icon-not-visible"
+        },
+        {
+            "name": "oc-icon-image-missing"
+        },
+        {
+            "name": "oc-icon-audio-note"
+        },
+        {
+            "name": "oc-icon-collapse-full"
+        },
+        {
+            "name": "oc-icon-fullscreen"
+        },
+        {
+            "name": "oc-icon-fullscreen-square"
+        },
+        {
+            "name": "oc-icon-microphone"
+        },
+        {
+            "name": "oc-icon-reply"
+        },
+        {
+            "name": "oc-icon-tag"
+        },
+        {
+            "name": "oc-icon-compass"
+        },
+        {
+            "name": "oc-icon-tools"
+        },
+        {
+            "name": "oc-icon-map"
+        },
+        {
+            "name": "oc-icon-assessment"
+        },
+        {
+            "name": "oc-icon-video-lab"
+        },
+        {
+            "name": "oc-icon-video-lesson"
+        },
+        {
+            "name": "oc-icon-video-lecture"
+        },
+        {
+            "name": "oc-icon-audio"
+        },
+        {
+            "name": "oc-icon-list"
+        },
+        {
+            "name": "oc-icon-chart-square"
+        },
+        {
+            "name": "oc-icon-attach"
+        },
+        {
+            "name": "oc-icon-notification"
+        },
+        {
+            "name": "oc-icon-watch"
+        },
+        {
+            "name": "oc-icon-power"
+        },
+        {
+            "name": "oc-icon-inbox"
+        },
+        {
+            "name": "oc-icon-activity"
+        },
+        {
+            "name": "oc-icon-flag"
+        },
+        {
+            "name": "oc-icon-unsupported-content"
+        },
+        {
+            "name": "oc-icon-respond"
+        },
+        {
+            "name": "oc-icon-institution-alt"
+        },
+        {
+            "name": "oc-icon-link"
+        },
+        {
+            "name": "oc-icon-pivot"
+        },
+        {
+            "name": "oc-icon-started"
+        },
+        {
+            "name": "oc-icon-not-started"
+        },
+        {
+            "name": "oc-icon-summative-quiz"
+        },
+        {
+            "name": "oc-icon-fully-online"
+        },
+        {
+            "name": "oc-icon-peer-assessment"
+        },
+        {
+            "name": "oc-icon-attendance"
+        },
+        {
+            "name": "oc-icon-available"
+        },
+        {
+            "name": "oc-icon-busy"
+        },
+        {
+            "name": "oc-icon-unavailable"
+        },
+        {
+            "name": "oc-icon-other"
+        },
+        {
+            "name": "oc-icon-assignment"
+        },
+        {
+            "name": "oc-icon-logo"
+        },
+        {
+            "name": "oc-icon-up"
+        },
+        {
+            "name": "oc-icon-right"
+        },
+        {
+            "name": "oc-icon-down"
+        },
+        {
+            "name": "oc-icon-visible"
+        },
+        {
+            "name": "oc-icon-catalog"
+        },
+        {
+            "name": "oc-icon-images"
+        },
+        {
+            "name": "oc-icon-location"
+        },
+        {
+            "name": "oc-icon-dashboard"
+        },
+        {
+            "name": "oc-icon-ebook"
+        },
+        {
+            "name": "oc-icon-messages"
+        },
+        {
+            "name": "oc-icon-locate"
+        },
+        {
+            "name": "oc-icon-photo"
+        },
+        {
+            "name": "oc-icon-alert-triangle"
+        },
+        {
+            "name": "oc-icon-alert-circle"
+        },
+        {
+            "name": "oc-icon-alert-square"
+        },
+        {
+            "name": "oc-icon-alert-diamond"
+        },
+        {
+            "name": "oc-icon-book"
+        },
+        {
+            "name": "oc-icon-timer"
+        },
+        {
+            "name": "oc-icon-cloud"
+        },
+        {
+            "name": "oc-icon-upload"
+        },
+        {
+            "name": "oc-icon-download"
+        },
+        {
+            "name": "oc-icon-trash"
+        },
+        {
+            "name": "oc-icon-recommended"
+        },
+        {
+            "name": "oc-icon-textbook"
+        },
+        {
+            "name": "oc-icon-unlock"
+        },
+        {
+            "name": "oc-icon-lock"
+        },
+        {
+            "name": "oc-icon-no"
+        },
+        {
+            "name": "oc-icon-add-attach"
+        },
+        {
+            "name": "oc-icon-close-delete"
+        },
+        {
+            "name": "oc-icon-collapse"
+        },
+        {
+            "name": "oc-icon-clock"
+        },
+        {
+            "name": "oc-icon-info"
+        },
+        {
+            "name": "oc-icon-arrow-circle-left"
+        },
+        {
+            "name": "oc-icon-arrow-circle-right"
+        },
+        {
+            "name": "oc-icon-arrow-circle-up"
+        },
+        {
+            "name": "oc-icon-arrow-circle-down"
+        },
+        {
+            "name": "oc-icon-refresh"
+        },
+        {
+            "name": "oc-icon-avatar"
+        },
+        {
+            "name": "oc-icon-add"
+        },
+        {
+            "name": "oc-icon-close-x"
+        },
+        {
+            "name": "oc-icon-video"
+        },
+        {
+            "name": "oc-icon-target"
+        },
+        {
+            "name": "oc-icon-submissions"
+        },
+        {
+            "name": "oc-icon-stream"
+        },
+        {
+            "name": "oc-icon-settings"
+        },
+        {
+            "name": "oc-icon-search"
+        },
+        {
+            "name": "oc-icon-ring"
+        },
+        {
+            "name": "oc-icon-outline"
+        },
+        {
+            "name": "oc-icon-menu"
+        },
+        {
+            "name": "oc-icon-menu-list"
+        },
+        {
+            "name": "oc-icon-like"
+        },
+        {
+            "name": "oc-icon-idea"
+        },
+        {
+            "name": "oc-icon-home"
+        },
+        {
+            "name": "oc-icon-groups"
+        },
+        {
+            "name": "oc-icon-gradebook"
+        },
+        {
+            "name": "oc-icon-goal"
+        },
+        {
+            "name": "oc-icon-follow"
+        },
+        {
+            "name": "oc-icon-ellipsis"
+        },
+        {
+            "name": "oc-icon-discussions"
+        },
+        {
+            "name": "oc-icon-crossroads"
+        },
+        {
+            "name": "oc-icon-content"
+        },
+        {
+            "name": "oc-icon-compose"
+        },
+        {
+            "name": "oc-icon-communities"
+        },
+        {
+            "name": "oc-icon-collections"
+        },
+        {
+            "name": "oc-icon-collaborations"
+        },
+        {
+            "name": "oc-icon-chart"
+        },
+        {
+            "name": "oc-icon-calendar"
+        },
+        {
+            "name": "oc-icon-arrow-up"
+        },
+        {
+            "name": "oc-icon-arrow-sm-up"
+        },
+        {
+            "name": "oc-icon-arrow-sm-right"
+        },
+        {
+            "name": "oc-icon-arrow-sm-down"
+        },
+        {
+            "name": "oc-icon-arrow-right"
+        },
+        {
+            "name": "oc-icon-arrow-left"
+        },
+        {
+            "name": "oc-icon-arrow-down"
+        },
+        {
+            "name": "oc-icon-application"
+        },
+        {
+            "name": "oc-icon-announce"
+        },
+        {
+            "name": "oc-icon-share"
+        },
+        {
+            "name": "oc-icon-milestone"
+        },
+        {
+            "name": "oc-icon-course"
+        },
+        {
+            "name": "oc-icon-instructor"
+        },
+        {
+            "name": "oc-icon-pdf"
+        },
+        {
+            "name": "oc-icon-arrow-sm-left"
+        },
+        {
+            "name": "oc-icon-google"
+        },
+        {
+            "name": "oc-icon-skype"
+        },
+        {
+            "name": "oc-icon-edit"
+        },
+        {
+            "name": "oc-icon-facebook-circle"
+        },
+        {
+            "name": "oc-icon-facebook"
+        },
+        {
+            "name": "oc-icon-google-circle"
+        },
+        {
+            "name": "oc-icon-skype-circle"
+        },
+        {
+            "name": "oc-icon-twitter-circle"
+        },
+        {
+            "name": "oc-icon-twitter"
+        },
+        {
+            "name": "oc-icon-podcast"
+        },
+        {
+            "name": "oc-icon-mail"
+        },
+        {
+            "name": "oc-icon-network"
+        },
+        {
+            "name": "oc-icon-blended"
+        },
+        {
+            "name": "oc-icon-left"
+        },
+        {
+            "name": "oc-icon-docs"
+        },
+        {
+            "name": "oc-icon-mastery"
+        },
+        {
+            "name": "oc-icon-camera"
+        },
+        {
+            "name": "oc-icon-skills"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+/// Path to a font asset
+///
+/// @param {String} $asset
+///
+/// @return {String} - Path to the font asset, without the file extension
+@function oFontsUseAsset($asset) {
+	@return $o-fonts-path + $asset;
+}

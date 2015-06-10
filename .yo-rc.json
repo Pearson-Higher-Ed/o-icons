@@ -1,0 +1,9 @@
+{
+  "generator-origami": {
+    "componentName": "o-he-icons",
+    "componentDesc": "This component provides a consistent experience for the icons and actions they represent across Higher Education products.",
+    "gitRepo": "https://github.com/jumolis/o-he-icons",
+    "organization": "Pearson Higher Education",
+    "camelCasedName": "oHeIcons"
+  }
+}

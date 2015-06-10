@@ -1,0 +1,14 @@
+{
+    "description": "This component provides a consistent experience for the icons and actions they represent across Higher Education products.",
+    "origamiType": "module",
+    "origamiVersion": 1,
+    "support": "https://github.com/jumolis/o-icons/issues",
+    "supportStatus": "experimental",
+    "demos": [
+        {
+            "path": "/demos/demo.html",
+            "expanded": true,
+            "description": ""
+        }
+    ]
+}
