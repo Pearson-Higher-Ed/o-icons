@@ -3,7 +3,12 @@
 /// @type String
 $o-icons-path: '//build.origami.pearsoned.com/files/o-icons@1.0.0/' !default;
 
+/// Path to the assets
+///
+/// @type String
+$o-icons-is-silent: true !default;
+
 /// Local mode
 ///
 /// @type Bool
-$o-icons-local: false !default;
+$o-icons-local: true !default;
