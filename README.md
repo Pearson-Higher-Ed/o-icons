@@ -17,10 +17,6 @@
 
 Tested on IE(9+), Chrome(43), Firefox(38), and Safari(8)
 
-## Use local assets
-
-This component is designed to be used from the build service.  If you wish to run it locally, open src/scss/_variables.scss and change $o-icons-local to true.  
-
 ## License
 
-This software is published by Pearson Higher Education under the [MIT licence](http://opensource.org/licenses/MIT).
+This software is published by Pearson Higher Education under the [MIT license](LICENSE).
