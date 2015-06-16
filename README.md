@@ -1,4 +1,4 @@
-# o-icons [![Build Status](https://travis-ci.org/jumolis/o-icons.svg)](https://travis-ci.org/jumolis/o-icons)
+# o-icons [![Build Status](https://travis-ci.org/Pearson-Higher-Ed/o-icons.svg)](https://travis-ci.org/Pearson-Higher-Ed/o-icons)
 
 ## Quick start
 
