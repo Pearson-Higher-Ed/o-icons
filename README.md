@@ -47,4 +47,4 @@ Tested and working on:
 
 ## License
 
-This software is published by Pearson Higher Education under the [MIT license](LICENSE).
+This software is published by Pearson Education under the [MIT license](LICENSE).
