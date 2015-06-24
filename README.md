@@ -13,9 +13,37 @@
 
 ```
 
+## Advanced usage
+
+### Loading icon fonts
+
+Turn off silent mode or use the `oIconsIncludeAll` mixin to include `@font-face` declarations and icon classes for all available icons:
+
+```scss
+// Turn off silent mode...
+$o-icons-is-silent: false;
+@import 'o-icons/main';
+
+// ...or use the mixin
+@include oIconsIncludeAll();
+```
+
+To include specific `@font-face` declarations, use the `oIconsInclude` mixin:
+
+```scss
+@include oIconsInclude(oc-icons);
+```
+
 ## Browser support
 
-Tested on IE(9+), Chrome(43), Firefox(38), and Safari(8)
+Tested and working on:
+
+|  Browser   | Versions                  |
+|:----------:|:-------------------------:|
+|   Chrome   |   36+                     |
+|   Firefox  |   30+                     |
+|   Safari   |   7+                      |
+|   IE       |   9+                      |
 
 ## License
 
