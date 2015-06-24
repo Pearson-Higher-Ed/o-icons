@@ -1,6 +1,5 @@
 {
   "name": "o-icons",
-  "dependencies": {},
   "main": [
     "main.scss"
   ],
@@ -8,5 +7,11 @@
     "examples",
     "test",
     ".gitignore"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pearson-higher-ed/o-icons"
+  },
+  "license": "MIT",
+  "dependencies": {}
 }
