@@ -1,5 +1,11 @@
 {
+  "name": "o-icons",
+  "version": "0.0.2",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pearson-Higher-Ed/o-icons.git"
+  },
   "devDependencies": {
     "expect.js": "^0.3.1",
     "debowerify": "Financial-Times/debowerify",
